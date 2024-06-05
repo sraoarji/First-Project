@@ -32,7 +32,7 @@ This repository contains a series of Terraform templates for deploying and manag
 Contributions to improve or extend the templates are welcome. Please ensure that your contributions are well-documented and tested.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed
 
 ## Disclaimer
 The templates are provided 'as is', and users should ensure they meet their specific needs and adhere to AWS best practices.
