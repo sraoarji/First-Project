@@ -1,5 +1,5 @@
 provider "aws" {
-  region = "us-east-1"  # Specify your AWS region
+  region = "us-east-2"  # Specify your AWS region
 }
 
 # Create an IAM User
